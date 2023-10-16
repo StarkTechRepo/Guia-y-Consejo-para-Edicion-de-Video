@@ -7,11 +7,11 @@
 4. [Creación de Títulos Atractivos](#creación-de-títulos-atractivos)
 5. [Aprender de Otros Vídeos](#aprender-de-otros-vídeos)
 6. [Hacer tu Canal de YouTube más Atractivo](#hacer-tu-canal-de-youtube-más-atractivo)
-7. [Editores Recomendados para Usuarios con Experiencia en Edición](editores-recomendados-para-usuarios-con-experiencia-en-edición)
+7. [Editores Recomendados para Usuarios con Experiencia en Edición](#editores-recomendados-para-usuarios-con-experiencia-en-edición)
 8. [Editores Recomendados para Usuarios con poca Experiencia en Edición](#editores-recomendados-para-usuarios-con-poca-experiencia-en-edición)
 9. [Atajos Útiles para Vegas Pro 18](#atajos-útiles-para-vegas-pro-18)
 10. [Atajos Útiles para CapCut](#atajos-útiles-para-capcut)
-11. [Recursos para Edición de Video (Para Novatos)](recursos-para-edición-de-video-para-novatos)
+11. [Recursos para Edición de Video (Para Novatos)](#recursos-para-edición-de-video-para-novatos)
 
 ## Razones por las que se recomienda usar el editor de Vegas Pro 18 para quienes recién comienzan a editar:
 
