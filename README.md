@@ -33,6 +33,8 @@ Antes de sumergirte en la edición, es importante comprender los fundamentos de 
 
 - **El montaje:** El montaje implica la combinación de los planos y movimientos de cámara para crear una narrativa coherente en tu vídeo.
 
+- **El guion:** Un guion bien elaborado es la base de un video exitoso. Proporciona la estructura necesarias para combinar de manera efectiva los elementos visuales y de sonido. Es como el "montaje" de tu narrativa, asegurando que la historia sea coherente y cautivadora para tu audiencia. Un guion bien planificado te ayudará a transmitir tu mensaje de manera clara y efectiva en tu video.
+
 ## Creación de miniaturas atractivas:
 
 Una miniatura atractiva es fundamental para atraer la atención del espectador y hacer que quiera ver tu vídeo. Algunos consejos para crear miniaturas efectivas incluyen:
