@@ -1,5 +1,7 @@
 # Guía y Consejos para Edición de Video (Para Novatos)
 
+![Imagen](foto.jpg)
+
 ## Índice
 1. [Razones para usar el editor de Vegas Pro 18](#razones-por-las-que-se-recomienda-usar-el-editor-de-vegas-pro-18-para-quienes-recién-comienzan-a-editar)
 2. [Fundamentos de la Edición de Video](#lo-primero-que-debes-saber-para-empezar-a-editar)
