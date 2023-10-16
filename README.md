@@ -122,78 +122,32 @@ Si tienes experiencia en edición, algunos editores recomendados:
 
 ## Atajos Útiles para Vegas Pro 18
 
-- **Cortar Clips:**
    - `S`: Divide el clip seleccionado en la línea de tiempo en el punto de reproducción.
-
-- **Eliminar Clips:**
    - `Delete`: Elimina el clip seleccionado.
-
-- **Deshacer:**
    - `Ctrl + Z` (Windows) o `Cmd + Z` (Mac): Deshace la acción previa.
-
-- **Rehacer:**
    - `Ctrl + Y` (Windows) o `Cmd + Shift + Z` (Mac): Rehace la acción previamente deshecha.
-
-- **Copiar y Pegar Clips:**
    - `Ctrl + C` (Windows) y `Ctrl + V` (Windows) o `Cmd + C` (Mac) y `Cmd + V` (Mac): Copia y pega clips en la línea de tiempo.
-
-- **Seleccionar Todo:**
    - `Ctrl + A` (Windows) o `Cmd + A` (Mac): Selecciona todos los clips en la línea de tiempo.
-
-- **Zoom In/Out en la Línea de Tiempo:**
    - `+` (más) y `-` (menos): Amplía o reduce la vista de la línea de tiempo.
-
-- **Reproducción/Pausa:**
    - `Barra espaciadora`: Inicia o pausa la reproducción.
-
-- **Rebobinar al Principio/Final:**
    - `Inicio` y `Fin`: Salta al principio o al final del proyecto.
-
-- **Guardar Proyecto:**
     - `Ctrl + S` (Windows) o `Cmd + S` (Mac): Guarda el proyecto.
-
-- **Exportar Video:**
     - `Ctrl + E` (Windows) o `Cmd + E` (Mac): Abre la ventana de exportación para guardar el video.
-
-- **Desplazar la Línea de Tiempo:**
     - `Flechas Izquierda/Derecha`: Mueve la línea de tiempo hacia la izquierda o derecha en pequeños incrementos.
 
 ## Atajos Útiles para CapCut
 
-- **Cortar Clips:**
    - `C`: Divide el clip seleccionado en la línea de tiempo en el punto de reproducción.
-
-- **Eliminar Clips:**
    - `Delete`: Elimina el clip seleccionado.
-
-- **Deshacer:**
    - `Ctrl + Z` (Windows) o `Cmd + Z` (Mac): Deshace la acción previa.
-
-- **Rehacer:**
    - `Ctrl + Y` (Windows) o `Cmd + Shift + Z` (Mac): Rehace la acción previamente deshecha.
-
-- **Copiar y Pegar Clips:**
    - `Ctrl + C` (Windows) y `Ctrl + V` (Windows) o `Cmd + C` (Mac) y `Cmd + V` (Mac): Copia y pega clips en la línea de tiempo.
-
-- **Seleccionar Todo:**
    - `Ctrl + A` (Windows) o `Cmd + A` (Mac): Selecciona todos los clips en la línea de tiempo.
-
-- **Zoom In/Out en la Línea de Tiempo:**
    - `Ctrl + +` (Windows) o `Cmd + +` (Mac) y `Ctrl + -` (Windows) o `Cmd + -` (Mac): Amplía o reduce la vista de la línea de tiempo.
-
-- **Reproducción/Pausa:**
    - `Barra espaciadora`: Inicia o pausa la reproducción.
-
-- **Rebobinar al Principio/Final:**
    - `Inicio` y `Fin`: Salta al principio o al final del proyecto.
-
-- **Guardar Proyecto:**
     - `Ctrl + S` (Windows) o `Cmd + S` (Mac): Guarda el proyecto.
-
-- **Exportar Video:**
     - `Ctrl + E` (Windows) o `Cmd + E` (Mac): Abre la ventana de exportación para guardar el video.
-
-- **Desplazar la Línea de Tiempo:**
     - `Flechas Izquierda/Derecha`: Mueve la línea de tiempo hacia la izquierda o derecha en pequeños incrementos.
 
 ## Atajos Útiles para Adobe Premiere Rush
